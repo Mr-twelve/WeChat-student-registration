@@ -7,7 +7,7 @@
 开发时间：2019年8月10日——2019年8月20日</br>
 使用时间：2019年8月23日——2019年8月25日</br>
 
-该项目是ShierS正式开发的第一款的软件产品，累计用户2304人，使用于2019年山西农业大学软件学院迎新生工作中。
+该项目是本人式开发的第一款的软件产品，累计用户2304人，使用于2019年山西农业大学软件学院迎新生工作中。
 </br></br>
 <img src="https://github.com/Mr-twelve/WeChat-student-registration/blob/main/%E5%9B%BE%E7%89%87/%E5%B1%95%E6%9E%B6.png" width="600" alt="微信小程序"/><br/>
 
@@ -31,6 +31,7 @@
 ![](https://github.com/Mr-twelve/WeChat-student-registration/blob/main/%E5%9B%BE%E7%89%87/%E5%88%9D%E8%A7%81%E5%86%9C%E5%A4%A7%E6%88%AA%E5%9B%BE/d9bbb50f0a4926ae07d6c0ed4871541.jpg)  |  ![](https://github.com/Mr-twelve/WeChat-student-registration/blob/main/%E5%9B%BE%E7%89%87/%E5%88%9D%E8%A7%81%E5%86%9C%E5%A4%A7%E6%88%AA%E5%9B%BE/e39373ef13d6ef1fddea669d5121786.jpg) |  ![](https://github.com/Mr-twelve/WeChat-student-registration/blob/main/%E5%9B%BE%E7%89%87/%E5%88%9D%E8%A7%81%E5%86%9C%E5%A4%A7%E6%88%AA%E5%9B%BE/e91b88bcd3c26762449de08c1f49c97.jpg)
 ![](https://github.com/Mr-twelve/WeChat-student-registration/blob/main/%E5%9B%BE%E7%89%87/%E5%88%9D%E8%A7%81%E5%86%9C%E5%A4%A7%E6%88%AA%E5%9B%BE/ebf30cb921f9033913bdd860b78f0a9.jpg)  |  ![](https://github.com/Mr-twelve/WeChat-student-registration/blob/main/%E5%9B%BE%E7%89%87/%E5%88%9D%E8%A7%81%E5%86%9C%E5%A4%A7%E6%88%AA%E5%9B%BE/ee731b19b1554d5d27ecaa48d317df9.jpg) |  ![](https://github.com/Mr-twelve/WeChat-student-registration/blob/main/%E5%9B%BE%E7%89%87/%E5%88%9D%E8%A7%81%E5%86%9C%E5%A4%A7%E6%88%AA%E5%9B%BE/微信截图_20191129113118.png)
 ![](https://github.com/Mr-twelve/WeChat-student-registration/blob/main/%E5%9B%BE%E7%89%87/%E5%88%9D%E8%A7%81%E5%86%9C%E5%A4%A7%E6%88%AA%E5%9B%BE/微信截图_20191129113205.png)  |  ![](图片) |  ![](图片)
+
 
 
 
