@@ -1,0 +1,22 @@
+.top{
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  line-height: 50rpx;
+  font-size: 34rpx;
+  margin-left: 100rpx;
+  margin-right: 50rpx;
+  padding-top: 5rpx;
+  letter-spacing: 3rpx;
+}
+
+.con{
+  padding: 20rpx 20rpx;
+}
+
+.cen{
+  text-align: center;
+  font-weight: bold;
+  font-size: 36rpx;
+  padding-top: 10rpx;
+}

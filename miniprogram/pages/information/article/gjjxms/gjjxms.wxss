@@ -1,0 +1,23 @@
+/* miniprogram/pages/information/article/gjjxms/gjjxms.wxss */
+.jiaoliu{
+  text-indent: 56rpx;
+  text-align: justify;
+  font-size: 34rpx;
+  line-height: 50rpx;
+  padding-top: 10rpx;
+  letter-spacing: 5rpx;
+  width: 100%;
+  display: inline-block;
+  content: ''; 
+}
+.company{
+  text-indent: 56rpx;
+  text-align: justify;
+  font-size: 33rpx;
+  line-height: 50rpx;
+  padding-top: 10rpx;
+  letter-spacing: 5rpx;
+  width: 100%;
+  display: inline-block;
+  content: ''; 
+}

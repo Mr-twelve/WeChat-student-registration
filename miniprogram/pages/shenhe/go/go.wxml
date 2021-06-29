@@ -1,0 +1,7 @@
+<view style="text-align:center;font-weight:bold">
+<text>总人数:{{totalpeople}},已经注册:{{havenumber}},到校:{{sum}}</text></view>
+<view class="viewda">
+<block wx:for='{{student}}' wx:key>
+<view id="{{item._id}}" bindtap="yes" class="quyu {{item.ifgoschool?'red':'black'}}">{{item.name}}{{item.xuehao[7]}}{{item.xuehao[8]}}{{item.xuehao[9]}}{{item.xuehao[10]}}</view>
+</block>
+</view>

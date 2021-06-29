@@ -1,0 +1,45 @@
+page{
+  background: #EAEAEF;
+}
+
+.q{
+ padding:0 20rpx; 
+}
+
+.v{
+background: white;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding: 5rpx 20rpx;
+line-height: 70rpx;
+margin: 5rpx 20rpx;
+border-radius: 10rpx;
+}
+
+
+
+.b{
+  font-weight: bold;
+  color: #3f83cc;
+  font-size: 28rpx;
+  text-align: left;
+  padding-left: 20rpx; 
+  margin-bottom: 10rpx;
+}
+
+.m{
+  margin-top: 20rpx;
+}
+
+.time{
+  font-size: 26rpx;
+}
+.title {
+padding: 20rpx 0 0 20rpx;
+font-weight: bold;
+font-size: 28rpx;
+color: #3f83cc;
+}
+
+

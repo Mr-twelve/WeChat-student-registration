@@ -1,0 +1,17 @@
+<view style="width:100%;height:100%">
+
+  <view class="page-body">
+    <view class="page-section page-section-gap">
+      <map id="myMap" style="width: 100%; height: 200px;" latitude="{{latitude}}" longitude="{{longitude}}" markers="{{markers}}" covers="{{covers}}" scale="15" show-location="false" enable-scroll="false"></map>
+    </view>
+  </view>
+  <button bindtap="moveToLocation">点击导航到新生缴费点</button>
+  <view class="c">
+    <view wx:for='{{information.content}}' wx:key=''>
+      <view class="b">
+        <image src="{{item.img}}" class="s-img" />{{item.title}}</view>
+      <view class="t">{{item.text}}</view>
+    </view>
+    <view class="a" style="padding: 0 0"> 注：若未进行网上缴费，可至缴费点缴费，缴费点仅支持银行卡缴费和现金缴费</view>
+  </view>
+</view>

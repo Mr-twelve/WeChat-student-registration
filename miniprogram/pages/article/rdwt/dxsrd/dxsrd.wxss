@@ -1,0 +1,9 @@
+.container{
+  padding: 10rpx 20rpx;
+  font-size: 30rpx;
+  line-height: 70rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

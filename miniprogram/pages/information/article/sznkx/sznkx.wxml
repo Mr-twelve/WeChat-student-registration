@@ -1,0 +1,32 @@
+<view class="bb">智能科学与技术实验室简介</view>
+<view class="ar">
+  <view class="dl">
+    智能科学与技术实验室位于崇学楼一楼西侧，实验室占地约300平方米，于2019年2月建成并投入使用。
+  </view>
+  <view class="dl">
+    实验室拥有充满活力的科研团队以及一流的硬件设施，包括无人机、机器人、高性能GPU服务器、人工智能软硬件研发平台等。实验室现有教授2人，副教授2人，核心教师团队8人，在读全日制博士、硕士研究生等共计40余人，同时与中科院以及英国、新西兰等国家的一流大学保持密切交流合作。中英数据科学与智能感知中心挂靠实验室。
+  </view>
+  <view class="dl">智能科学与技术实验室主要为学院智能科学与技术专业、软件工程专业人工智能方向本科生和学院研究生教育提供理论教学及实践实验教学服务，推行集中管理，开放式实验，定期汇报指导的教学管理模式。同时，实验室还可以为企业和本校学生提供人工智能培训和技术服务，助力我院复合型软件工程人才的培养。</view>
+  <view class="dl">实验室在新时期伴随学院和学校的转型发展，充分发挥山西农业大学软件学院学科优势，逐步发展成为以人工智能为基础、 以智慧校园和智慧农业为特色，集物联网、智能化为一体的特色鲜明的智能实验室。</view>
+  <image src="cloud://test-mux64.7465-test-mux64-1259757584/校园生活/智慧校园二.jpg" mode="widthFix" style="width:100%"></image>
+  <view class="dl">
+    <text class="aaaa">文物三维重建：</text>
+    <text class="bbbb">文物保护是每个公民的责任与义务，软件学院人工智能实验室旨在为整个山西乃至全国构建文物3D重建模型，对文物的修复、保护以及宣传有着至关重要的作用。</text>
+  </view>
+  <image src="cloud://test-mux64.7465-test-mux64-1259757584/校园生活/文物三维重建.jpg" mode="widthFix" style="width:100%"></image>
+  <view class="dl">
+    <text class="aaaa">智慧校园一：</text>
+    <text class="bbbb">基于校园安全和考勤的人脸识别系统、车辆识别系统、防盗防火预警系统，特别是多摄像头实时跟踪系统、行为识别系统，方便目标人物的定位及意外事件的预测及预防，是校园安全的重要保证。</text>
+  </view>
+  <image src="cloud://test-mux64.7465-test-mux64-1259757584/校园生活/智慧校园一jpg.jpg" mode="widthFix" style="width:100%"></image>
+  <image src="cloud://test-mux64.7465-test-mux64-1259757584/校园生活/智慧校园二2.jpg" mode="widthFix" style="width:100%"></image>
+  <view class="dl">
+    <text class="aaaa">智慧校园二：</text>
+    <text class="bbbb">校园植物种类识别及采用生成技术进行校园美化设计，校园植物识别系统能提供良好的观赏及感知体验，同时花卉生成辅助系统，可用于校园美化和展览设计。</text>
+  </view>
+  <image src="cloud://test-mux64.7465-test-mux64-1259757584/校园生活/智慧医疗.jpg" mode="widthFix" style="width:100%"></image>
+  <view class="dl">
+    <text class="aaaa">智慧医疗：</text>
+    <text class="bbbb">实验室的智慧医疗方向主要采用人工智能技术进行病灶的定位及识别，缓解医生的压力，提高疾病诊断的准确性。</text>
+  </view>
+</view>

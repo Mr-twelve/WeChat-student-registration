@@ -1,0 +1,91 @@
+.background{
+  width: 100%;
+  height: 100%;
+  position:fixed;
+  background-size: 100% 100%;
+  z-index: -1;
+}
+
+.page-section-gap{
+  box-sizing: border-box;
+  padding: 0 0rpx;
+}
+
+/* 分割线样式 */
+.divLine{
+ background: #E0E3DA;
+ width: 100%;
+ height: 3rpx;
+}
+
+.b{
+  font-weight: bold;
+  color: #3f83cc;
+  font-size: 36rpx;
+  padding-top: 10rpx;
+}
+
+.t{
+  padding-left: 40rpx;
+  line-height:60rpx;
+}
+
+.a{
+   padding-left: 40rpx;
+  /* line-height:60rpx; */
+  color: red;
+  font-size: 25rpx;
+  letter-spacing:5rpx;
+}
+
+.c{
+  padding-top:20rpx;
+  padding-left: 5rpx;
+  letter-spacing:3rpx;
+}
+
+.l{
+  color: #3f83cc;
+}
+
+.s-img{
+  width: 35rpx;
+  height: 35rpx;
+}
+
+/* 学院介绍文章的标题样式 */
+.bb{
+  font-weight: bolder;
+  text-align: center;
+  font-size: 36rpx;
+}
+
+/* 文章整体样式 */
+.ar{
+  padding: 20rpx 20rpx;
+}
+
+/* 文章段落样式 */
+.dl{
+  text-indent: 56rpx;
+  text-align: justify;
+  font-size: 34rpx;
+  line-height: 50rpx;
+  padding-top: 30rpx;
+  letter-spacing: 5rpx;
+  width: 100%;
+  display: inline-block;
+  content: ''; 
+}
+
+
+.aaaa{
+  font-size: 32rpx;
+  font-weight: bold;
+}
+
+.bbbb{
+  font-size: 30rpx;
+  font-weight: 300;
+  letter-spacing: 5rpx;
+}

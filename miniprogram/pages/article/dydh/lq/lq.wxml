@@ -1,0 +1,27 @@
+<!--miniprogram/pages/article/lq/lq.wxml-->
+ <image src="cloud://good-3mgiy.676f-good-3mgiy/篮球2.jpg" mode="widthFix" style="width:100%"></image>
+ <image src="cloud://good-3mgiy.676f-good-3mgiy/篮球1.jpg" mode="widthFix" style="width:100%"></image>
+
+<view class="bb"style="color: #3f83cc">软件学院校篮球赛三连冠</view>
+
+<text class="wenzi">一场篮球赛</text>
+<text class="wenzi">可以牵动赛场上每个人的心跳</text>
+<text class="wenzi">一场篮球赛</text>
+<text class="wenzi">可以赢得赛场上每个人的喝彩</text>
+<text class="wenzi">一场篮球赛</text>
+<text class="wenzi">可以点燃赛场上每个人的激情</text>
+<text class="wenzi">软件男篮</text>
+<text class="wenzi">是你们让我们知道</text>
+<text class="wenzi">青春就要挥汗如雨</text>
+<text class="wenzi">青春就要燃!!!</text>
+<text class="xbt">第一场 软件学院vs食品工程与科学学院</text>
+<text class="xbt">比分：64-30</text>
+<text class="xbt">第二场 软件学院vs文理学院</text>
+<text class="xbt">比分：67-53</text>
+<text class="xbt">第三场 软件学院vs公共管理学院</text>
+<text class="xbt">比分：79-44</text>
+<text class="xbt">第四场 软件学院vs动物科技学院</text>
+<text class="xbt">比分：57-23</text>
+<text class="xbt">第六场 软件学院vs园艺学院</text>
+<text class="xbt">比分：61-51</text>
+<text class="wenzi">we are champion!</text>

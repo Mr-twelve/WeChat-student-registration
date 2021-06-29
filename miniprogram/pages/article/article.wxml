@@ -1,0 +1,86 @@
+<view class="title">教师风采</view>
+<view class="container">
+  <view class="list" bindtap="xyls">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/教师.png" /> 专任教师
+  </view>
+  <view class="list1" />
+  <view class="list1" />
+</view>
+
+
+<view class="title">
+  学习生活</view>
+<view class="container">
+  <view class="list" bindtap="sksj">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/上课时间.png" /> 上课时间
+  </view>
+  <view class="list" bindtap="jxl">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/教学楼.png" /> 教学楼
+  </view>
+  <view class="list" bindtap="rdwt">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/热点问题.png" /> 热点问题
+  </view>
+  <view class="list" bindtap="dydh">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/学生活动.png" /> 学生活动
+  </view>
+</view>
+
+
+<view class="title">生活导航</view>
+<view class="container">
+  <view class="list" bindtap="kawu">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/卡务银行.png" /> 卡务、银行
+  </view>
+  <view class="list" bindtap="xyy">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/校医院.png" /> 校医院
+  </view>
+  <view class="list" bindtap="xyyl">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/学生会.png" /> 学生会
+  </view>
+  <view class="list" bindtap="xiyu">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/洗浴用品.png" /> 洗浴、开水
+  </view>
+</view>
+<view class="container">
+  <view class="list" bindtap="zydh">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/电话.png" /> 重要电话
+  </view>
+  <view class="list" bindtap="zysx">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/注意事项.png" /> 注意事项
+  </view>
+  <view class="list1" />
+  <view class="list1" />
+  <!-- <view class="list"bindtap="xyy">
+    <image src="../../images/list/yyy.png" /> 校医院
+  </view>
+  <view class="list"bindtap="xyyl">
+    <image src="../../images/list/dtt.png" /> 学生会
+  </view>
+  <view class="list"bindtap="xiyu">
+    <image src="../../images/list/xzz.png" /> 洗浴、开水
+  </view> -->
+</view>
+
+<view class="title">校外出行</view>
+<view class="container">
+  <view class="list" bindtap="xiaoche">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/校车.png" /> 校车
+  </view>
+  <view class="list" bindtap="gjc">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/公交车.png" /> 公交车
+  </view>
+  <view class="list" bindtap="qcz">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/公交车站.png" /> 汽车站
+  </view>
+  <view class="list" bindtap="hcz">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/火车站.png" /> 火车站
+  </view>
+</view>
+<view class="container">
+  <view class="list" bindtap="dcz">
+    <image src="cloud://test-mux64.7465-test-mux64-1259757584/2019新生照片/软件1810/校园生活图标/动车.png" /> 动车站
+  </view>
+
+  <view class="list1" />
+
+</view>

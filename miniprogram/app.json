@@ -1,0 +1,94 @@
+{
+  "pages": [
+    "pages/first-login/first-login",
+    "pages/login-s/login-s",
+    "pages/step/step",
+    "pages/article/article",
+    "pages/information/information",
+    "pages/step/one/one",
+    "pages/step/two/two",
+    "pages/step/three/three",
+    "pages/step/four/four",
+    "pages/information/article/xyjs/xyjs",
+    "pages/information/article/dzld/dzld",
+    "pages/information/article/bkjy/bkjy",
+    "pages/information/article/znkx/znkx",
+    "pages/information/article/sjkx/sjkx",
+    "pages/information/article/szmt/szmt",
+    "pages/information/article/rjgc/rjgc",
+    "pages/information/article/sznkx/sznkx",
+    "pages/information/article/sszmt/sszmt",
+    "pages/information/article/srjgc/srjgc",
+    "pages/information/article/sydhl/sydhl",
+    "pages/login-s/sign/sign",
+    "pages/mine/mine",
+    "pages/article/sksj/sksj",
+    "pages/article/jxl/jxl",
+    "pages/article/rdwt/rdwt",
+    "pages/article/kawu/kawu",
+    "pages/article/xyy/xyy",
+    "pages/article/xiyu/xiyu",
+    "pages/article/xiaoche/xiaoche",
+    "pages/article/gjc/gjc",
+    "pages/article/qcz/qcz",
+    "pages/article/dydh/dydh",
+    "pages/article/xyls/xyls",
+    "pages/mine/team/team",
+    "pages/article/rdwt/dxsrd/dxsrd",
+    "pages/article/rdwt/jzxj/jzxj",
+    "pages/article/rdwt/tmyjs/tmyjs",
+    "pages/shenhe/shenhe",
+    "pages/shenhe/go/go",
+    "pages/shenhe/go/yes/yes",
+    "pages/shenhe/denglu/denglu",
+    "pages/article/xsh/xsh",
+    "pages/article/dydh/lq/lq",
+    "pages/article/dydh/xiangqin/xiangqin",
+    "pages/article/zydh/zydh"
+  ],
+  "window": {
+    "navigationBarBackgroundColor":"#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "初见农大",
+    "backgroundColor": "#e9e9e9",
+    "backgroundTextStyle": "light",
+    "navigationStyle": "default"
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#3f83cc",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/step/step",
+        "text": "报道流程",
+        "iconPath": "images/icon/1.2.png",
+        "selectedIconPath": "images/icon/1.1.png"
+      },
+      {
+        "pagePath": "pages/article/article",
+        "text": "校园生活",
+        "iconPath": "images/icon/2.2.png",
+        "selectedIconPath": "images/icon/2.1.png"
+      },
+      {
+        "pagePath": "pages/information/information",
+        "text": "软件学院",
+        "iconPath": "images/icon/4.1.png",
+        "selectedIconPath": "images/icon/4.2.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "个人信息",
+        "iconPath": "images/icon/3.2.png",
+        "selectedIconPath": "images/icon/3.1.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  }
+}

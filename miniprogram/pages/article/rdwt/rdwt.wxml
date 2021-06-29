@@ -1,0 +1,23 @@
+<view class="title" style="font-size:32rpx;">
+  大学生关注的三大热点
+</view>
+<view class="v" bindtap="dxsrd">
+  <text>大学生入党</text>
+  <text class="time">2019/08/15</text>
+</view>
+<!-- <view class="divLine"></view> -->
+<view class="v" bindtap="jzxj">
+  <text>奖助学金</text>
+  <view class="time">2019/08/15</view>
+</view>
+<!-- <view class="divLine"></view> -->
+<view class="v" bindtap="tmyjs">
+  <text>推免研究生</text>
+  <view class="time">2019/08/15</view>
+</view>
+<!-- <view class="divLine"></view> -->
+<!-- <view class="v">
+  <text bindtap="sydhl">移动互联实验室简介</text>
+  <view class="time">2019/06/27</view>
+</view> -->
+<!-- <view class="divLine"></view> -->

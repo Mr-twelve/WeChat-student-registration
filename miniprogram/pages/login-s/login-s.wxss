@@ -1,0 +1,56 @@
+.page {
+  height: 100%;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center
+}
+
+/* 登陆按钮的样式 */
+.button {
+  width: 70%;
+  height: 80rpx;
+  background: #889fd2;
+  margin: 50rpx 15%;
+  font-size: 35rpx;
+  color: white;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+/* 登陆提示的文字样式 */
+.a {
+  font-size: 25rpx;
+  color: grey;
+  margin-top: 10rpx;
+  padding-left:0;
+}
+
+/* 账号密码登录框 input-group样式*/
+.input-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 70%;
+  height: 80rpx;
+  background-color: #F8F8FF;
+  margin-top: 15rpx;
+  font-size: 30rpx;
+  border-radius: 20rpx;
+}
+
+.input-text {
+  padding-left: 20rpx;
+  display: flex;
+  align-items: center;
+  font-size: 30rpx;
+  color: grey;
+  width: 170rpx;
+}

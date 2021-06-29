@@ -1,0 +1,222 @@
+<view class="container">
+  <view class="left">
+    <image src="cloud://good-3mgiy.676f-good-3mgiy-1259757584/2019主席团/李鑫.jpg"></image>
+  </view>
+  <view class="right">
+    <view class="bold">姓名：李鑫</view>
+    <view class="bold">职务：学生会主席</view>
+    <view class="bold">分管部门：办公室、外联部</view>
+  </view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">办公室</view>
+  <view class="detail">办公室是学生会的大脑部门，枢纽部门，负责协调、沟通、管理学生会各部门日常工作和事务的部门，对学院和团委的工作进行上传下达，或者协助组织学生会其他部门进行活动，提供场地、设备、道具的租赁、配发和购买。处理学生会日常文职工作，管理学生会各部门人事档案和资料文档，每年学期末做年终总结。</view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">外联部</view>
+  <view class="detail">外联部是学生会的重要部门，主要肩负着为学生会工作筹集资金的重担。并且，外联部以增进校企合作关系为工作重点，旨在向外展示学院学生的真我风采。同时，外联部也负责学生会对外交流联络的工作，对学生会活动的顺利进行起着不可或缺的作用。可以说，这里不仅是学生会的部门，更是一个综合型人才的加工厂。外联部是学生接触社会、了解社会、融入社会的锻炼平台，是大社会与小社会的沟通纽带。</view>
+</view>
+<view class="divLine"></view>
+
+<view class="container">
+  <view class="left">
+    <image src="cloud://good-3mgiy.676f-good-3mgiy/2019主席团/曹越.png"></image>
+  </view>
+  <view class="right">
+    <view class="bold">姓名：曹越</view>
+    <view class="bold">职务：分管主席</view>
+    <view class="bold">分管部门：科创部、创业部</view>
+  </view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">科创部</view>
+  <view class="detail">科创即科技创新，本部门为广大同学参加科技创新活动或比赛提供方便，可以提高大家对科技创新的兴趣，丰富大家的课余生活，借助学院的支持与平台，利用我们的头脑真正地将学过的知识用以实际。同时通过科技展、知识竞赛、学术交流、讲座培训等形式的活动，激发学生的科技创新意识，形成“学科学、爱科学”的观念。2017年成功举办“第三届创新创业成果展”等系列活动。</view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">创业部</view>
+  <view class="detail">我们不创业，我们让大家创业。成立大学生创业部的主要工作和职能是为了让学生学到的专业知识和技能，宣传创业知识，并且可以认识许多创业成功的学长，学习他们的创业经验，从而切实提高学生社会适应能力，培养学生的市场竞争意识，激发学生的创新、创业潜能。</view>
+</view>
+<view class="divLine"></view>
+
+<view class="container">
+  <view class="left">
+    <image src="cloud://good-3mgiy.676f-good-3mgiy-1259757584/2019主席团/张鸿翔.JPG"></image>
+  </view>
+  <view class="right">
+    <view class="bold">姓名：张鸿翔</view>
+    <view class="bold">职务：分管主席</view>
+    <view class="bold">分管部门：秘书处、新闻部</view>
+  </view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">秘书处</view>
+  <view class="detail">秘书处主要以配合办公室协助学生会主席团处理学生会日常事务，协调各部门的关系，促进学生会各项工作的顺利开展为工作重心。发挥学生会的“桥梁纽带”作用，做好学校与学生的“上情下达、下情上传”沟通工作;组织对各项工作和活动的现场考核，为期末考核和评定准备材料;负责全体学生会委员和学生会干部、干事的工作情况的记载;负责起草制定有关文件，掌管学生会的各种文书、文件及有关物品。</view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">新闻部</view>
+  <view class="detail">新闻部是新闻宣传和信息发布的主要部门，负责院内重大活动新闻的编写、重要人物的访谈及报道，负责学生会材料及学生会宣传工作的编辑任务，统筹所有文字信息的加工与校对。宗旨是关注学生群体，服务学生之耳目，传达学生之喉舌。用最敏锐的眼光发掘新闻热点，用最生动的文字指点新闻江山。</view>
+</view>
+<view class="divLine"></view>
+
+<view class="container">
+  <view class="left">
+    <image src="cloud://good-3mgiy.676f-good-3mgiy-1259757584/2019主席团/张腾达.jpg"></image>
+  </view>
+  <view class="right">
+    <view class="bold">姓名：张腾达</view>
+    <view class="bold">职务：分管主席</view>
+    <view class="bold">分管部门：自律部、权益部</view>
+  </view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">自律部</view>
+  <view class="detail">“无所畏，有所为”是我们的部训。作为学院管理工作的基础部门，我们以“培养全院同学的时间观念、自我约束能力，使同学们养成良好的自律意识”为宗旨，以“在全院营造一个团结、积极向上的学习生活氛围”为目标。自律部始终以“明志、律己、笃行”这六字严格要求自己。自律部职能：监察工作，查早读，查升旗，查卫生，主要查出勤和纪律。举办活动，使自律深入人心，打造优良校风。</view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">权益部</view>
+  <view class="detail">权益部是学院联系学生的桥梁和枢纽。以服务同学、维护同学利益为工作宗旨，通过开展各项活动，让同学们知权维权用权。部门主要职责是：自律方面：主要负责大一新生每天的早读查勤以及周一全院升旗情况等；生活卫生方面：组织和发动全院同学做好校园及宿舍卫生，增强同学环保意识，倡导卫生新风尚，定期检查宿舍卫生；勤助方面：在权益部QQ平台上每天会发一些失物招领、寻物启事、兼职信息等等，赠人玫瑰的同时自己手有余香。爱在权益暖校园，全心权益为大家。</view>
+</view>
+<view class="divLine"></view>
+
+<view class="container">
+  <view class="left">
+    <image src="cloud://good-3mgiy.676f-good-3mgiy-1259757584/2019主席团/贺湘宇.jpg"></image>
+  </view>
+  <view class="right">
+    <view class="bold">姓名：贺湘宇</view>
+    <view class="bold">职务：分管主席</view>
+    <view class="bold">分管部门：体育部、竞技队</view>
+  </view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">体育部</view>
+  <view class="detail">体育部作为学生分会管理及组织学生体育运动部门，体育部成功组织参加多届运动会，多次组织了各类球类比赛。秉承锻炼同学的团队精神，重在加强广大同学身体素质，丰富同学的课余文化生活，力争为我院获得更多荣誉。</view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">竞技队</view>
+  <view class="detail">我院的竞技队，包括：篮球队，排球队，游泳队，网球队，毽球队，羽毛球队，田径队，乒乓球队，足球队等，并都在校级比赛取得了优异的成绩。</view>
+</view>
+<view class="divLine"></view>
+
+<view class="container">
+  <view class="left">
+    <image src="cloud://good-3mgiy.676f-good-3mgiy-1259757584/2019主席团/薛淇元.jpg"></image>
+  </view>
+  <view class="right">
+    <view class="bold">姓名：薛淇元</view>
+    <view class="bold">职务：分管主席</view>
+    <view class="bold">分管部门：风纪检查部</view>
+    <view class="bold">心理辅导站</view>
+  </view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">风纪检查部</view>
+  <view class="detail">院学生会风纪检查部是在我院领导下的一个由学生自发组织的部门，它是我院自主成立的新的学生会部门，它以“监督干部行为”为主要职责，通过“监督”而“塑人”，规范和提高全院干部的日常行为及修养意识。我部门以抓好全院的监督部长职权工作为主，维护学生会干事的权利。通过各种正常渠道反映学生会干事的意见、建议和要求。规范好我院干部们的行为。</view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">心理辅导站</view>
+  <view class="detail">我们的任务是：1.关注每一个学生的心理状态，接受同学们的咨询，如果同学们在学习、工作、情感等方面有困惑和不解，可以帮助同学们进行疏导。2.举办各种有关心理健康的活动。以游戏、视频、图片、讲说等形式，给同学们营造良好的成长氛围。3.协助老师完成大学生心理健康的教育。心理辅导站的同学，是同学们的知心伙伴，是心理活动的组织者也是学生与老师的心理信息传递员。</view>
+</view>
+<view class="divLine"></view>
+
+<view class="container">
+  <view class="left">
+    <image src="cloud://good-3mgiy.676f-good-3mgiy-1259757584/2019主席团/李嘉骏.jpg"></image>
+  </view>
+  <view class="right">
+    <view class="bold">姓名：李嘉骏</view>
+    <view class="bold">职务：分管主席</view>
+    <view class="bold">分管部门：新媒体中心</view>
+    <view class="bold">青志实践部</view>
+  </view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">新媒体中心</view>
+  <view class="detail">新媒体中心利用学院新媒体（官方微信平台、QQ空间、微博等）宣传工具及时对学生会工作进程以及全院学生学习、活动、生活状况进行报道，传达活动信息和学生会理念，引导全院学生充分、合理利用网络资源，开拓视野、增长见识、丰富课余生活。软件学院新媒体中心主要负责软件学院分团委微信平台运营，即微信公众号“晋侬小软”，主要致力于服务广大师生，及时提供学院资讯，同时在营造和谐向上的校园氛围方面也起到十分重要的作用。我们，上知新媒体运营技巧，下知文案图片编排，内知学院种种大事，外知社会热点话题。软件学院新媒体中心欢迎耐心细致、认真负责的萌新。我们不需要你有多么出色的能力，只需要你勇敢且热爱，只需要你向往且执着，你想要的新技能，我们给你！</view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">青志实践部</view>
+  <view class="detail">青志实践部全称青年志愿者实践工作部，是主管院内志愿服务工作以及社会救助，帮困扶贫，义务支教等各类社会实践活动的特殊部门。它组织和指导先进青年参加志愿服务活动，为社会和学校提供志愿服务，推动校园精神文明建设，提高青年的整体素质。促进广大团员青年投身社会实践，培养青年团员奉献精神和开创精神，使其在社会实践中不断充实完善自我，提高社会责任感和科学实践能力。青志实践部奉行“奉献，友爱，互助，进步”的准则，在校内外开展各项志愿活动、公益活动、实践活动，改善校园风气，促进青年学生的健康成长。</view>
+</view>
+<view class="divLine"></view>
+
+<view class="container">
+  <view class="left">
+    <image src="cloud://good-3mgiy.676f-good-3mgiy-1259757584/2019主席团/赵浩勋.jpg"></image>
+  </view>
+  <view class="right">
+    <view class="bold">姓名：赵浩勋</view>
+    <view class="bold">职务：分管主席</view>
+    <view class="bold">分管部门：宣传部、女生部</view>
+  </view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">宣传部</view>
+  <view class="detail">软件学院学生会宣传部作为学生工作的窗口，起着对内宣传学院动态和对外展示学院风貌的职责，宣传部主要协助学院各部门组织、开展有关活动，制作各种活动的宣传版面，管理好学院的宣传板等。宣传部作为学院的重要部门之一，其本身也组织、开展有关的活动。这里是展示创意与才华的舞台，是凸显风采和特色的窗口。在这里，我们将生活与美结合，用最美的色彩做最好的宣传。</view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">女生部</view>
+  <view class="detail">女生部是一个特点鲜明、个性十足，温馨快乐的团体，是一个有才华，有颜值的部门。女生部负责每一场活动的礼仪工作，是一个培养气质和欢乐的大家庭，女生部不意味着只是女生的天地，也有男生的工作。女生部有很多精彩的活动，比如各种活动的化妆工作，以及T台表演，夜跑减脂等，并配合其他部门完成各项活动。</view>
+</view>
+<view class="divLine"></view>
+
+<view class="container">
+  <view class="left">
+    <image src="cloud://good-3mgiy.676f-good-3mgiy-1259757584/2019主席团/张子铭.jpg"></image>
+  </view>
+  <view class="right">
+    <view class="bold">姓名：张子铭</view>
+    <view class="bold">职务：分管主席</view>
+    <view class="bold">分管部门：文艺部、艺术团</view>
+  </view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">文艺部</view>
+  <view class="detail">文艺部是学院文化的主要缔造者与管理者之一，以提高软件学子的艺术修养，丰富课余生活为宗旨组织各类文艺活动。此外，还将重点发掘在文艺方面有特长的学生，组织同学们代表软件学院参加校园文化节的各类文艺比赛，是一个多元化，有活力，有创造性的部门。</view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">艺术团</view>
+  <view class="detail">软件学院艺术团现下分有舞蹈队、歌队、主持队、曲艺队、合唱队。艺术团主要负责迎新晚会、毕业晚会等大型晚会的演出和工作，以及代表学院参加校文化艺术节的各类比赛。院艺术团为广大的软件学子提供了一个展示自我风采的舞台，培养一批又一批的艺术人才。极大程度上丰富了广大同学的校园文化生活，同时也加强了同学们在人文和艺术方面的素质教育，并在配合学院文化建设和全面提高软件学子综合素质方面发挥着重要作用，是活跃校园气氛中不可缺少的一份子。</view>
+</view>
+<view class="divLine"></view>
+
+<view class="container">
+  <view class="left">
+    <image src="cloud://good-3mgiy.676f-good-3mgiy-1259757584/2019主席团/张坤.jpg"></image>
+  </view>
+  <view class="right">
+    <view class="bold">姓名：张坤</view>
+    <view class="bold">职务：分管主席</view>
+    <view class="bold">分管部门：学习部、社联部</view>
+  </view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">学习部</view>
+  <view class="detail">软件学院学生会学习部是在院团委领导和学校学生会及院学生会指导下，隶属于院学生会的下设的部门之一。学习部主管学风建设和学术活动，以提高同学们学习意识、营造校园学习氛围为目的，筹办学术讲座和各类竞赛，积极举办承办各项活动，为丰富大学生活，活跃校园文化，提高同学们的学习热情，树立我系积极向上的学习风尚。除此之外，我院学习部还分管院辩论队，同学们也可以通过参加辩论队，进行日常训练和参加各种辩论比赛来增加自己的能力。</view>
+</view>
+<view class="divLine"></view>
+<view class="conment">
+  <view class="bold" style="font-size:34rpx;">社联部</view>
+  <view class="detail">山西农大软件学院社联部隶属于软件学院学生分会，是在软件学院分团委领导下，引导学生社团开展自我教育、自我管理和自我服务的学生组织。社联一直以“服务社团发展，繁荣校园文化”为不变的工作目标，旨在调动众多社团的积极性与创造性，全面开展富有深度，富有内涵，富有价值的社团活动，丰富学生的大学课余生活，提高当代大学生的业余学习能力和知识水平。社联长期以来扮演着对各社团服务和管理的双重角色，对学生社团的发展起着至关重要的作用，是学生社团与各个组织联系的必要纽带。</view>
+</view>
+<view class="divLine"></view>
+

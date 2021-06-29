@@ -1,0 +1,30 @@
+/* miniprogram/pages/shenhe/go/yes/yes.wxss */
+
+.kapian {
+  width: 100%;
+  flex-direction: column;
+  align-items: center; /*垂直居中*/
+  justify-content: center; /*水平居中*/
+  display: block;
+  overflow: hidden;
+  border-radius: 10rpx;
+}
+
+.wenzi {
+  text-align: center;
+  font-size: 70rpx;
+  font-weight: 10;
+}
+
+.anniu {
+  line-height: 1.2;
+  font-size: 70rpx;
+  color: white;
+  background-color: #39b54a;
+  height: 90rpx;
+  width: 70%;
+}
+.img{
+padding:5% 3%;
+justify-content: center;
+}

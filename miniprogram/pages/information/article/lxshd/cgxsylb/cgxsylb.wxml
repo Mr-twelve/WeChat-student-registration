@@ -1,0 +1,10 @@
+<view class="title">出国学生一览表</view>
+<image bindtap='viewimg' src="cloud://good-3mgiy.676f-good-3mgiy/出国学生一览表/出国学生一览表1.png" mode="widthFix" style="width:100%"></image>
+<image bindtap='viewimg' src="cloud://good-3mgiy.676f-good-3mgiy/出国学生一览表/出国学生一览表2.png" mode="widthFix" style="width:100%"></image>
+<image bindtap='viewimg' src="cloud://good-3mgiy.676f-good-3mgiy/出国学生一览表/出国学生一览表3.png" mode="widthFix" style="width:100%"></image>
+<view class="slh">.........</view>
+<image bindtap='viewimg' src="cloud://good-3mgiy.676f-good-3mgiy/出国学生一览表/出国学生一览表8.png" mode="widthFix" style="width:100%"></image>
+<view class="slh">.........</view>
+<image bindtap='viewimg' src="cloud://good-3mgiy.676f-good-3mgiy/出国学生一览表/出国学生一览表6.png" mode="widthFix" style="width:100%"></image>
+<view class="slh">.........</view>
+<image bindtap='viewimg' src="cloud://good-3mgiy.676f-good-3mgiy/出国学生一览表/出国学生一览表7.png" mode="widthFix" style="width:100%"></image>

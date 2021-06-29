@@ -1,0 +1,12 @@
+/* miniprogram/pages/information/article/moshi/moshi.wxss */
+.company{
+  text-indent: 56rpx;
+  text-align: justify;
+  font-size: 33rpx;
+  line-height: 50rpx;
+  padding-top: 10rpx;
+  letter-spacing: 5rpx;
+  width: 100%;
+  display: inline-block;
+  content: ''; 
+}

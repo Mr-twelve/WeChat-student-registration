@@ -1,0 +1,42 @@
+.page{
+  height: 100%;
+}
+
+.container{
+  height: 100%;
+  width: 100%;
+}
+
+.one{
+  margin-left:16%;
+  /* background-color: red; */
+  width: 220rpx;
+  height: 220rpx; 
+}
+
+.two{
+  margin-left: 55%;
+  /* background-color: red; */
+  width: 220rpx;
+  height: 220rpx;
+}
+
+.three{
+  margin-top: 15%;
+  margin-left: 65%;
+  /* background-color: red; */
+  position: fixed;
+  top:45%;
+  width: 220rpx;
+  height: 260rpx;
+}
+
+.four{
+  margin-bottom: 10%;
+  margin-left: 15%;
+/*   background-color: red; */
+  position: fixed;
+  bottom:0px;
+  width: 220rpx;
+  height: 220rpx;
+}

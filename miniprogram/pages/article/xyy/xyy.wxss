@@ -1,0 +1,13 @@
+page {
+  background-color: #F8F8F8;
+  height: 100%;
+  font-size: 32rpx;
+  line-height: 1.6;
+}
+.xyyjs{
+  letter-spacing:5rpx;
+  line-height:50rpx;
+  font-size:32rpx;
+  padding: 10rpx 30rpx 10rpx 30rpx;
+
+}

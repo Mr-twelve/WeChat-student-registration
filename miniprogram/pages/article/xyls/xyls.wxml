@@ -1,0 +1,44 @@
+<block wx:for='{{imglist}}' wx:key>
+  <image id="{{item}}" bindtap="viewimg" mode="aspectFit" src="{{item}}" style="width:100%" />
+</block>
+<!-- <image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image001.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image002.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image003.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image004.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image005.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image006.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image007.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image008.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image009.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image010.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image011.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image012.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image013.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image014.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image015.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image016.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image017.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image018.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image019.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image020.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image021.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image022.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image023.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image024.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image025.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image026.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image027.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image028.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image029.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image030.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image031.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image032.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image033.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image034.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image035.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image036.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image037.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image038.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image039.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image040.jpg" style="width:100%" />
+<image mode="aspectFit" src="cloud://good-3mgiy.676f-good-3mgiy/teacher/lgo7_image041.jpg" style="width:100%" /> -->

@@ -1,0 +1,27 @@
+<view class="bb">智能科学与技术专业介绍</view>
+<view class="ar">
+  <view class="dl">
+    <text class="aaaa">学制：</text>
+    <text class="bbbb">基本学制：4年，弹性学制3-8年</text>
+  </view>
+  <view class="dl">
+    <text class="aaaa">学位：</text>
+    <text class="bbbb">工学学士学位</text>
+  </view>
+  <view class="dl">
+    <text class="aaaa">国际合作：</text>
+    <text class="bbbb">该专业设有国际班，可以同时获得世界500强高校的学历学位。</text>
+  </view>
+  <view class="dl">
+    <text class="aaaa">培养目标：</text>
+    <text class="bbbb">本专业以社会主义经济建设发展和智能科学与技术人才需求为导向、以学生为中心、以创新发展的人才培养理念，旨在培养具备良好的科学素质，系统地掌握智能科学与技术的基本理论、基本知识和基本技能与方法，在智能科学与工程领域具有较强的知识获取能力、知识工程能力和创新创业能力的宽口径复合型高质量以及具有计算机、自动化、电子等交叉学科基础的人才，具备在相应领域从事智能技术与工程的科研、开发、管理工作的高级技术人才。</text>
+  </view>
+  <view class="dl">
+    <text class="aaaa">主要课程：</text>
+    <text class="bbbb">人工智能与机器学习导论、离散数学、运筹学、电路基础、模拟电子技术、数字电子技术、计算机系统基础及组成原理、自动控制理论、传感器与无线传感网络、数据结构、数据库原理与应用、语音信号处理、模式识别基础、图像处理与机器视觉、特征提取、Python程序设计、仿真建模与MATLAB、算法导论、神经网络与深度学习、机器学习、生物信息学、脑与认知科学基础、虚拟现实技术等。</text>
+  </view>
+  <view class="dl">
+    <text class="aaaa">就业前景：</text>
+    <text class="bbbb">本专业学生毕业后可在外企、IT公司及其他大型公司从事智能应用系统及计算机工程的研发、在政府机构、教育机构、信息中心、数据中心及企业的技术部门和行政管理部门从事计算机、信息处理、教学(教师)、技术管理、系统维护(网管员)和应用部署(软件系统使用和维护)等工作。</text>
+  </view>
+</view>

@@ -1,0 +1,16 @@
+
+<view class="container">
+<view style="color:#3f83cc;font-size:30rpx;font-weight:bold;letter-space:3rpx;">大学生入党流程如下：</view>
+<view>
+<view>1.向党组织提交入党申请书</view>
+<view>2.确定入党积极分子</view>
+<view>3.参加学院党课培训</view>
+<view>4.参加党课考试</view>
+<view>5.确定为发展对象</view>
+<view>6.参加学校重点发展对象培训班</view>
+<view>7.政治审查，填写相关表格</view>
+<view>8.召开支部大会表决</view>
+<view>9.预备党员，入党宣誓</view>
+<view>10.提出申请转为正式党员</view>
+</view>
+</view>

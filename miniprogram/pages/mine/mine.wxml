@@ -1,0 +1,59 @@
+<view class="all">
+  <block wx:if="{{!ifjiazhang}}">
+    <view class="container">
+      <view style="margin-top:20rpx;">
+        <view class="img">
+          <image src="{{tximg}}" />
+        </view>
+        <view style="font-weight:bold;margin-top:10rpx;text-align:center;">
+          <image style="width:35rpx;height:35rpx;" src="../../images/icon/mine1.png" /> 个人信息
+        </view>
+        <view style="margin-left:80rpx;">学院：软件学院</view>
+        <view style="margin-left:80rpx;">班级：{{zybj}}</view>
+        <view style="margin-left:80rpx;">姓名：{{name}}</view>
+        <view style="margin-left:80rpx;">学号：{{xuehao}}</view>
+        <view style="margin-left:80rpx;">宿舍：{{sushe}}</view>
+        <view style="margin-left:80rpx;">籍贯：{{jiguan}}</view>
+        <view style="margin-left:80rpx;">导员姓名：{{daoname}}</view>
+        <view style="margin-left:80rpx;">导员电话：{{daoyuan}}</view>
+        <view style="font-weight:bold;text-align:center;">
+          <image style="width:35rpx;height:35rpx;" src="../../images/icon/mine2.png" /> 助管学生信息
+        </view>
+
+        <!-- <view class="botimg">
+        <image style="width:100rpx;height:100rpx;" src="cloud://good-3mgiy.676f-good-3mgiy/4910e42e301a0eaf13e837e078b1528.jpg"></image>
+        <image style="width:100rpx;height:100rpx;" src="cloud://good-3mgiy.676f-good-3mgiy/4910e42e301a0eaf13e837e078b1528.jpg"></image>
+        </view> -->
+        <view class="bot">
+          <image style="width:100rpx;height:140rpx;" src="{{daibantximg1}}"></image>
+          <view style="margin-left:20rpx;">
+            <view>姓名：{{daibanname1}}</view>
+            <view>联系电话：{{daibantell1}}</view>
+          </view>
+        </view>
+        <view style="margin-bottom:60rpx;" class="bot">
+          <image style="width:100rpx;height:140rpx;" src="{{daibantximg2}}"></image>
+          <view style="margin-left:20rpx;">
+            <view>姓名：{{daibanname2}}</view>
+            <view>联系电话：{{daibantell2}}</view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </block>
+  <block wx:if="{{ifjiazhang}}">
+    
+      <view class="container1">
+        <view class="img">
+          <image style="width:150rpx;height:150rpx;margin-top:30rpx;" src="cloud://good-3mgiy.676f-good-3mgiy/校徽.jpg" />
+        </view>
+        <view style="margin-bottom:60rpx;">您是家长，个人信息无法获取</view>
+        <view style="margin-bottom:40rpx;color:#3f83cc" bindtap="returna">返回首页</view>
+      </view>
+
+  </block>
+  <view class="bottom">
+    <view bindtap="team" style="color:#3f83cc">关于开发团队</view>
+    <view style="text-align:center;margin-top:10rpx;">Copyright © 2019 石头工作室(软件学院)</view>
+  </view>
+</view>

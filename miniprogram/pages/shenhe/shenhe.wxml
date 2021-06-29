@@ -1,0 +1,27 @@
+<view style="text-align:center;font-weight:bold">
+<text>总人数:1117,已经注册:{{have}}988,到校:{{sum}}321</text></view>
+<view class="viewda" style="padding-top:40rpx;">
+<view id="rj1810" bindtap='go' class="quyu rj">软件1810</view>
+<view id="rj1901" bindtap='go' class="quyu rj">软件1901</view>
+<view id="rj1902" bindtap='go' class="quyu rj">软件1902</view>
+<view id="rj1903" bindtap='go' class="quyu rj">软件1903</view>
+<view id="rj1904" bindtap='go' class="quyu rj">软件1904</view>
+<view id="rj1905" bindtap='go' class="quyu rj">软件1905</view>
+<view id="rj1906" bindtap='go' class="quyu rj">软件1906</view>
+<view id="rj1907" bindtap='go' class="quyu rj">软件1907</view>
+<view id="rj1908" bindtap='go' class="quyu rj">软件1908</view>
+<view id="rj1909" bindtap='go' class="quyu rj">软件1909</view>
+<view id="rj1910" bindtap='go' class="quyu rj">软件1910</view>
+<view id="rj1911" bindtap='go' class="quyu rj">软件1911</view>
+<view id="rj1912" bindtap='go' class="quyu rj">软件1912</view>
+<view id="rj1913" bindtap='go' class="quyu rj">软件1913</view>
+<view id="rj1914" bindtap='go' class="quyu rj">软件1914</view>
+<view id="rj1915" bindtap='go' class="quyu rj">软件1915</view>
+<view id="rj1916" bindtap='go' class="quyu rj">软件1916</view>
+<view id="rj1917" bindtap='go' class="quyu rj">软件1917</view>
+<view id="rj1918" bindtap='go' class="quyu rj">软件1918</view>
+<view id="zn1901" bindtap='go' class="quyu zn">智能1901</view>
+<view id="sj1901" bindtap='go' class="quyu sj">数据1901</view>
+<view id="sm1901" bindtap='go' class="quyu sm">数媒1901</view>
+<view id="sm1902" bindtap='go' class="quyu sm">数媒1902</view>
+</view>

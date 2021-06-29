@@ -1,0 +1,49 @@
+<view class="all">
+  <view class="container">
+    <view style="text-align:center;font-size:36rpx;font-weight:bold;margin-top:20rpx;">新生报道注册</view>
+    <view class="top">
+      <view class="img" style="width:154rpx;height:220rpx;font-size:20rpx;">
+
+      </view>
+      <view class="img">
+        <image wx:if='{{img==null}}' bindtap='chooseImage' src="cloud://test-mux64.7465-test-mux64-1259757584/图片上传2.jpg" />
+        <image wx:if='{{img!=null}}' bindtap='chooseImage' src='{{img}}' />
+      </view>
+      <view class="img1" style="width:154rpx;height:220rpx;font-size:20rpx;color:grey;line-height:40rpx;text-align:justify">
+        上传本人红底一寸照片电子版，若无电子版则上传清晰的近期免冠正面照
+      </view>
+    </view>
+    <view>
+      <form bindsubmit="okk">
+        <input name='sfzh' class="inp" placeholder="身份证号" placeholder-class="pla" type="idcard" confirm-type="next"></input>
+        <view class="divLine" />
+        <input name='tell' class="inp" placeholder="本人联系方式" placeholder-class="pla" type="number" confirm-type="next"></input>
+        <view class="divLine" />
+        <input name='hometell' class="inp" placeholder="母亲联系方式" placeholder-class="pla" type="number" confirm-type="next"></input>
+        <view class="divLine" />
+        <input name='yb' class="inp" placeholder="父亲联系方式" placeholder-class="pla" type="number" confirm-type="next"></input>
+        <view class="divLine" />
+        <input name='location' class="inp" placeholder="家庭住址" placeholder-class="pla" type="text" confirm-type="next"></input>
+        <view class="divLine" />
+        <input name='jg' class="inp" placeholder="籍贯" placeholder-class="pla" type="text" confirm-type="next"></input>
+        <view class="divLine" />
+        <input name='zjxy' class="inp" placeholder="宗教信仰（若无请写无）" placeholder-class="pla" type="text" confirm-type="next"></input>
+        <view class="divLine" />
+        <!-- <input name='zzmm' class="inp" placeholder="政治面貌（共青团员、群众）" placeholder-class="pla" type="text" confirm-type="next"></input>
+        <view class="divLine" /> -->
+        <view class="textinp">
+          <textarea name='homemessage' maxlength='300' class="textar" placeholder="家庭情况简介" placeholder-class="pla" confirm-type="next"></textarea>
+        </view>
+        <view class="divLine" />
+        <view class="zhu">
+          <view>
+            注：请认真填写相关信息，我们将保护您的隐私安全。
+          </view>
+        </view>
+        <button class="but" form-type="submit">
+          提交信息
+        </button>
+      </form>
+    </view>
+  </view>
+</view>

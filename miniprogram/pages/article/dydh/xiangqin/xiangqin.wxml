@@ -1,0 +1,69 @@
+<view class="bb">{{context.title}}</view>
+<view class="ar">
+
+<view class="dl">
+{{context.text1}}
+</view>
+
+<block wx:for='{{context.img1}}' wx:key>
+<image mode="widthFix" style="width:100%;" src="{{item}}"></image>
+</block>
+
+<view class="dl">
+ {{context.text2}}
+</view>
+
+<block wx:for='{{context.img2}}' wx:key>
+<image mode="widthFix" style="width:100%;" src="{{item}}"></image>
+</block>
+
+<view class="dl">
+ {{context.text3}}
+</view>
+<!--  -->
+<block wx:for='{{context.img3}}' wx:key>
+<image mode="widthFix" style="width:100%;" src="{{item}}"></image>
+</block>
+
+<view class="dl">
+ {{context.text4}}
+</view>
+
+<block wx:for='{{context.img4}}' wx:key>
+<image mode="widthFix" style="width:100%;" src="{{item}}"></image>
+</block>
+
+<view class="dl">
+ {{context.text5}}
+</view>
+
+<block wx:for='{{context.img5}}' wx:key>
+<image mode="widthFix" style="width:100%;" src="{{item}}"></image>
+</block>
+
+<view class="dl">
+ {{context.text6}}
+</view>
+
+<block wx:for='{{context.img6}}' wx:key>
+<image mode="widthFix" style="width:100%;" src="{{item}}"></image>
+</block>
+
+<view class="dl">
+ {{context.text7}}
+</view>
+
+<block wx:for='{{context.img7}}' wx:key>
+<image mode="widthFix" style="width:100%;" src="{{item}}"></image>
+</block>
+
+<view class="dl">
+ {{context.text8}}
+</view>
+
+<block wx:for='{{context.img8}}' wx:key>
+<image mode="widthFix" style="width:100%;" src="{{item}}"></image>
+</block>
+
+<!--  -->
+</view>

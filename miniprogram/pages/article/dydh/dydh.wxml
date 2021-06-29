@@ -1,0 +1,41 @@
+<!--miniprogram/pages/article/dydh/dydh.wxml-->
+<view class="swiperimg">
+<swiper indicator-dots="true"
+  autoplay="true" interval="3000">
+  <block wx:for="{{imgUrls}}" wx:key>
+    <swiper-item>
+      <image bindtap="viewimg" id="{{item}}" src="{{item}}" class="img"/>
+    </swiper-item>
+  </block>
+</swiper>
+</view>
+<view class="v">
+  <text id="1" bindtap="lq">软件学院举行工程教育专业认证研讨会</text>
+   <view class="time">2019/07/31</view>
+</view>
+<view class="v">
+  <text id="2" bindtap="lq">软件学院召开本科人才培养方案研讨会</text>
+   <view class="time">2019/07/29</view>
+</view>
+<view class="v">
+  <text id="3" bindtap="lq">软件学院举行2019届本科毕业生学士学位授予仪式</text>
+   <view class="time">2019/07/03</view>
+</view>
+<view class="v">
+  <text id="4" bindtap="lq">软件学院举办首届数字媒体艺术专业毕业设计汇报展</text>
+   <view class="time">2019/07/03</view>
+</view>
+<view class="v">
+  <text id="5" bindtap="lq">软件学院成丽君副院长一行赴兰州大学信息科学与工程学院交流学习</text>
+   <view class="time">2019/05/29</view>
+</view>
+<view class="v">
+  <text id="6" bindtap="lq">软件学院副院长成丽君一行受邀赴兰州参加数字媒体专业建设陕甘晋高峰论坛</text>
+   <view class="time">2019/05/29</view>
+   </view>
+<view class="v">
+  <text bindtap="lanqiu">软件学院校篮球赛三连冠</text>
+  <view class="time">2019/05/28</view>
+</view>
+
+

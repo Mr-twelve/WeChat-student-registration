@@ -1,0 +1,27 @@
+<!-- 页面根目录 -->
+<view>
+  <image class="background" src="../../../images/backimage.png" mode="aspectfill" />
+</view>
+<!-- 输入框及其他部分 -->
+<form bindsubmit="login">
+  <view class="container">
+    <view class="input-group" style="margin-top:{{marginTop}}px;">
+      <view class="input-text">
+        <text decode="{{true}}" space="emsp">学&emsp;&emsp;号：</text>
+      </view>
+      <input name="xuehao" type="idcard" confirm-type="done" />
+    </view>
+    <view class="input-group">
+      <view class="input-text">
+        <text decode="{{true}}" space="emsp">密&emsp;&emsp;码：</text>
+      </view>
+      <input name="mima" type="number" confirm-type="done" password="true" />
+    </view>
+    <view>
+      <!-- <view>
+        <text class="a">温馨提示：密码为身份证号后六位</text>
+      </view> -->
+    </view>
+    <button form-type="submit" class="button">登 录</button>
+  </view>
+</form>

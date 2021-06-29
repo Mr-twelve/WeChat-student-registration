@@ -1,0 +1,29 @@
+.black{
+  background-color: #e54d42;
+}
+.red{
+  background-color: #8dc63f;
+}
+
+page {
+  background-color: whitesmoke;
+  height: 100%;
+  width: 100%;
+}
+.quyu {
+  color:white;
+  font-size: 36rpx;
+  text-align: center;
+  border-radius: 6rpx;
+  width: 19%;
+  height: 92rpx;
+  position: relative;
+  z-index: 1;
+  margin: 10rpx 20rpx;
+}
+.viewda {
+display: flex;
+flex-wrap: wrap;
+padding: 0px 40rpx 0px;
+justify-content: space-between;
+}

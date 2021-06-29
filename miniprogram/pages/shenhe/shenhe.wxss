@@ -1,0 +1,36 @@
+page {
+  background-color: whitesmoke;
+  height: 100%;
+  width: 100%;
+}
+.quyu {
+  color:white;
+  font-size: 41rpx;
+  text-align: center;
+  border-radius: 6rpx;
+  padding: 20rpx;
+  background-color:white;
+  width: 40%;
+  height: 62rpx;
+  margin: 10rpx;
+  position: relative;
+  z-index: 1;
+}
+.viewda {
+display: flex;
+flex-wrap: wrap;
+padding: 0px 40rpx 0px;
+justify-content: space-between;
+}
+.rj{
+  background-color: #1cbbb4;
+}
+.zn{
+  background-color: #e54d42;
+}
+.sj{
+  background-color: #fbbd08;
+}
+.sm{
+  background-color: #9c26b0;
+}

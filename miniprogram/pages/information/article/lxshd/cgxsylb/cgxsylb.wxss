@@ -1,0 +1,12 @@
+.title {
+font-weight: bold;
+font-size: 39rpx;
+color: #3f83cc;
+text-align: center;
+padding: 30rpx 3rpx;
+}
+.slh{
+  text-align: center;
+  font-weight: bold;
+  font-size: 39rpx;
+}

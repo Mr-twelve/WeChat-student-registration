@@ -1,0 +1,14 @@
+<view class="bb">移动互联实验室介绍</view>
+<view class="ar">
+<view class="dl">
+移动互联实验位于山两农业大学崇学楼三层西侧，于2017年12月建成并 投入使用，占地面积约219平方米，配备教学固定机位115台，投屏设备两套。 实验室终端硬件为采用IPS技术21. 5英寸LED背光显示屏的Apple iMac—体 机（型号：iMAC21.5-inch,Late2015),安装移动互联方向专业实验教学所需的Xcode软件及各类常用的应用软件，能同时满足120名学生上机操作。冋时提 供学生教师上机考试和竞赛活动等服务。
+</view>
+<image src="cloud://test-mux64.7465-test-mux64-1259757584/校园生活/移动互联实验室1.png" mode="widthFix" style="width:100%"></image>
+<view class="dl">
+ 实验室所承担的专业实验课程的教学任务有：ios应用开发实验，IOS案例剖析、iOS UI设计、UI界面交互设计实训、Android应用开发实验、Android初级高级案例剖析、数据库系统、Linux操作系统等。
+</view>
+<image src="cloud://test-mux64.7465-test-mux64-1259757584/校园生活/移动互联实验室2.png" mode="widthFix" style="width:100%"></image>
+<view class="dl">
+移动互联方向实验室设施完善，环境优良，为师生创造了良好的学习条件，对于实现产学研相结合的应用型、创新型培养目标提供了良好的平台。
+</view>
+</view>

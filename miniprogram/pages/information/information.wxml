@@ -1,0 +1,91 @@
+
+<view class="title">
+  学院概况
+</view>
+<view class="v">
+  <text bindtap="xyjs">学院简介</text>
+  <text /><text /><text /><text /><text />
+</view>
+<!-- <view class="divLine"></view> -->
+
+
+
+<view class="title">
+  本科生教学
+</view>
+<view class="v">
+  <text bindtap="bkjy">本科教育教学概述</text>
+  <view class="time">2019/06/24</view>
+</view>
+<!-- <view class="divLine"></view> -->
+<view class="v">
+  <text bindtap="znkx">智能科学与技术专业介绍</text>
+  <view class="time">2019/06/24</view>
+</view>
+<!-- <view class="divLine"></view> -->
+<view class="v">
+  <text bindtap="sjkx">数据科学与大数据技术专业介绍</text>
+  <view class="time">2019/06/24</view>
+</view>
+<!-- <view class="divLine"></view> -->
+<view class="v">
+  <text bindtap="szmt">数字媒体艺术专业介绍</text>
+  <view class="time">2019/06/24</view>
+</view>
+<!-- <view class="divLine"></view> -->
+<view class="v">
+  <text bindtap="rjgc">软件工程专业介绍</text>
+  <view class="time">2019/06/24</view>
+</view>
+<!-- <view class="divLine"></view> -->
+
+
+
+<view class="title">
+  实验室
+</view>
+<view class="v">
+  <text bindtap="sznkx">智能科学与技术实验室简介</text>
+  <text class="time">2019/07/03</text>
+</view>
+<!-- <view class="divLine"></view> -->
+<view class="v">
+  <text bindtap="sszmt">数字媒体艺术实验室简介</text>
+  <view class="time">2019/06/29</view>
+</view>
+<!-- <view class="divLine"></view> -->
+<view class="v">
+  <text bindtap="srjgc">软件工程实验室简介</text>
+  <view class="time">2019/06/27</view>
+</view>
+<!-- <view class="divLine"></view> -->
+<view class="v">
+  <text bindtap="sydhl">移动互联实验室简介</text>
+  <view class="time">2019/06/27</view>
+</view>
+<!-- <view class="divLine"></view> -->
+
+<view class="title">
+  教学模式
+</view>
+<view class="v">
+  <text bindtap="moshi">本科教育教学3+1模式</text>
+  <view class="time">2019/06/24</view>
+</view>
+<view class="v">
+  <text bindtap="gjlxjy">国际留学教育</text>
+  <view class="time">2019/06/08</view>
+</view>
+<view class="v">
+  <text bindtap="lxshd">留学生活动</text>
+  <view class="time">2019/08/18</view>
+</view>
+<view class="v">
+  <text bindtap="gjhz">国际合作教育教学模式</text>
+  <view class="time">2019/06/24</view>
+</view>
+
+
+
+
+

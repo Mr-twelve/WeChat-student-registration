@@ -1,0 +1,11 @@
+<!--miniprogram/pages/shenhe/go/yes/yes.wxml-->
+<view class="kapian">
+  <view class="img">
+    <image src="{{xstximg}}" style="height:980rpx;width:700rpx;"></image>
+  </view>
+  <view class="wenzi">{{name}}</view>
+  <view class="wenzi">{{xuehao}}</view>
+  <button class="anniu" wx:if='{{ifgoschool==false}}' bindtap="shenhe">确认到校</button>
+  <view class="wenzi" wx:if='{{workername}}' style="color:#3B7B9A">审核人员：{{workername}}</view>
+  <view class="wenzi" wx:if='{{workername}}' style="font-size:50rpx;color:#3B7B9A">{{time}}</view>
+</view>

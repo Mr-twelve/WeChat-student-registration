@@ -1,0 +1,16 @@
+.container {
+  padding: 10rpx 20rpx;
+}
+
+.tt {
+  text-align: center;
+  font-size: 30rpx;
+  color: #3f83cc;
+  font-weight: bold;
+}
+
+.dl{
+  line-height: 54rpx;
+  letter-spacing: 3rpx;
+  font-size: 28rpx;
+}

@@ -1,0 +1,16 @@
+<view style="width:100%;height:100%">
+  <view class="page-body">
+    <view class="page-section page-section-gap">
+      <map id="myMap" style="width: 100%; height: 200px;" latitude="{{latitude}}" longitude="{{longitude}}" markers="{{markers}}" covers="{{covers}}" scale="15" show-location="false" enable-scroll="false"></map>
+    </view>
+  </view>
+  <button bindtap="moveToLocation">点击导航到汽车站</button>
+  <image bindtap='viewimg' src="cloud://good-3mgiy.676f-good-3mgiy/时刻表图片/汽车站.png" mode="widthFix" style="width:100%"></image>
+  <view class="c">
+    <view>
+      <view class="b" style="font-size:30rpx;">
+        注：查询结果仅供参考，精确时刻表数据请以汽车站颁布为准。
+      </view>
+    </view>
+  </view>
+</view>

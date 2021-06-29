@@ -1,0 +1,4 @@
+<view style="height:100%;width:100%;">
+<image bindtap='viewimg1' src="cloud://test-mux64.7465-test-mux64-1259757584/校园生活/重要电话1.jpg" mode="widthFix" style="width:100%;margin-top:40rpx;"></image>
+<image bindtap='viewimg1' src="cloud://test-mux64.7465-test-mux64-1259757584/校园生活/重要电话2.jpg" mode="widthFix" style="width:100%;margin-top:40rpx;"></image>
+</view>

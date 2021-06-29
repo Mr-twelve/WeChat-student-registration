@@ -1,0 +1,26 @@
+<view class="lxgs">
+  <view class="title">
+    留学生讲留学故事
+  </view>
+  <video class="sp" id="myVideo" src="cloud://good-3mgiy.676f-good-3mgiy/lh.mp4" binderror="videoErrorCallback" controls></video>
+</view>
+
+<view class="divLine"></view>
+
+<view class="lxxs">
+  <view class="title">
+    山西农业大学软件学院出国学生(部分)
+  </view>
+  <image bindtap='viewimg' src="cloud://good-3mgiy.676f-good-3mgiy/出国学生一览表/一览表.png" mode="widthFix" style="width:100%"></image>
+  <!-- <view  class="ann" bindtap="Exentbindtap" style="color:grey">更多信息></view> -->
+</view>
+
+<view class="divLine"></view>
+
+<view class="lxgs">
+  <view class="title">
+    出国学生风采
+  </view>
+  <image bindtap='viewimg1' src="cloud://good-3mgiy.676f-good-3mgiy/出国学生一览表/新西兰海外生活.jpg" mode="widthFix" style="width:100%"></image>
+</view>
+<view class="divLine"></view>

@@ -1,0 +1,150 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"appid": "wxc06899682c9a679d",
+	"projectname": "%E5%88%9D%E8%A7%81%E5%86%9C%E5%A4%A7",
+	"libVersion": "2.8.0",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "新生登陆",
+					"pathName": "pages/login-s/login-s",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "流程界面",
+					"pathName": "pages/step/step",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "校园生活",
+					"pathName": "pages/article/article",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "学院介绍",
+					"pathName": "pages/information/information",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "学院简介",
+					"pathName": "pages/information/article/xyjs/xyjs",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "党政领导",
+					"pathName": "pages/information/article/dzld/dzld",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "注册界面",
+					"pathName": "pages/login-s/sign/sign",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "个人信息",
+					"pathName": "pages/mine/mine",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "学院老师",
+					"pathName": "pages/article/xyls/xyls",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "热点问题",
+					"pathName": "pages/article/rdwt/rdwt",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "审核",
+					"pathName": "pages/shenhe/shenhe",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "工作人员登陆",
+					"pathName": "pages/shenhe/denglu/denglu",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "审核个人信息详情",
+					"pathName": "pages/shenhe/go/yes/yes",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "学生会",
+					"pathName": "pages/article/xsh/xsh",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}

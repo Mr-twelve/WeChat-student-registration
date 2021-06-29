@@ -1,0 +1,27 @@
+<view class="bb">数据科学与大数据技术</view>
+<view class="ar">
+  <view class="dl">
+    <text class="aaaa">学制：</text>
+    <text class="bbbb">基本学制：4年，弹性学制3-8年。</text>
+  </view>
+  <view class="dl">
+    <text class="aaaa">学位：</text>
+    <text class="bbbb">工学学士学位</text>
+  </view>
+  <view class="dl">
+    <text class="aaaa">国际合作：</text>
+    <text class="bbbb">该专业设有国际班，可以同时获得世界500强高校的学历学位。</text>
+  </view>
+  <view class="dl">
+    <text class="aaaa">培养目标：</text>
+    <text class="bbbb">本专业以社会主义经济建设发展和数据科学与大数据技术人才需求为导向、以学生为中心、以创新发展为人才培养理念，旨在培养具有良好的科学素养和社会责任感与使命感，具有宽广的国际视野，具有从事数据科学与大数据相关的软硬件及网络的研究、设计、开发以及综合应用的高级工程技术人才。</text>
+  </view>
+  <view class="dl">
+    <text class="aaaa">主要课程：</text>
+    <text class="bbbb">程序设计基础、Linux操作系统、软件工程导论、操作系统、数据结构、计算机网络、计算机组成原理、数据库系统、面向对象程序设计、离散数学、网站设计基础、JSP程序设计基础、大数据技术导论、Python程序设计、网络爬虫与数据收集、数据清洗与预处理、大数据存储与预处理、数据仓库、数据挖掘、运筹学、数据安全、专业英语、Spark核心编程、算法设计与分析、数据可视化、Strom程序设计、NOSQL数据库等。</text>
+  </view>
+  <view class="dl">
+    <text class="aaaa">就业前景：</text>
+    <text class="bbbb">本专业学生毕业后可从事Hadoop开发、数据分析、数据挖掘、软件测试与开发、软件工程规划与设计、从事软件设计、开发、测试以及编制外文项目文档、重点行业云平台建设及应用、数据仓库、联机分析和数据可视化技术等大数据应用建模方面的工作。</text>
+  </view>
+</view>

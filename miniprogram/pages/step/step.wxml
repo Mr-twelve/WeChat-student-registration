@@ -1,0 +1,9 @@
+<view>
+  <image class="background" src="../../images/step-bg.png" mode="aspectfill" />
+</view>
+<view class="container">
+<view class="one" bindtap="one"/>
+<view class="two" bindtap="two"/>
+<view class="three" bindtap="three"/>
+<view class="four" bindtap="four"/>
+</view>

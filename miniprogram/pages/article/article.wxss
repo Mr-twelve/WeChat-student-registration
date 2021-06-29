@@ -1,0 +1,43 @@
+page{
+  background: #EAEAEF;
+}
+
+.title{
+  padding: 20rpx 0 0 20rpx;
+  font-weight: bold;
+  font-size: 28rpx;
+  color: #3f83cc;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10rpx 20rpx;
+}
+
+.list {
+  background: white;
+  border-radius: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 28rpx;
+  font-weight: 500;
+  width: 168rpx;
+  height: 180rpx;
+}
+/* 占位元素 */
+.list1 {
+  width: 162rpx;
+  height: 180rpx;
+}
+
+.list image{
+  padding:10rpx 0 10rpx 0;
+  width: 40%;
+  height:40%;
+}
+

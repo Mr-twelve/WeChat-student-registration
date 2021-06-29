@@ -1,0 +1,32 @@
+<view style="width:100%;height:100%">
+  <view class="page-body">
+    <view class="page-section page-section-gap">
+      <map id="myMap" style="width: 100%; height: 200px;" latitude="{{latitude}}" longitude="{{longitude}}" markers="{{markers}}" covers="{{covers}}" scale="15" show-location="false" enable-scroll="false"></map>
+    </view>
+  </view>
+  <image bindtap='viewimg' src="cloud://test-mux64.7465-test-mux64-1259757584/校园生活/银行.png" mode="widthFix" style="width:100%"></image>
+  <view class="c" style="padding:10rpx 20rpx;">
+    <view>
+      <view class="b" bindtap="moveToLocation0">
+      <image src="../../../images/icon/local1.png" class="s-img"/>
+        中国建设银行ATM（点击可导航）
+        </view>
+      <view class="b" bindtap="moveToLocation1">
+      <image src="../../../images/icon/local1.png" class="s-img"/>
+        工商银行ATM（点击可导航）
+      </view>
+      <view class="b" bindtap="moveToLocation2">
+      <image src="../../../images/icon/local1.png" class="s-img"/>
+        中国银行ATM（点击可导航）
+      </view>
+      <view class="b" bindtap="moveToLocation3">
+      <image src="../../../images/icon/local1.png" class="s-img"/>
+        中国邮政储蓄银行ATM（点击可导航）
+      </view>
+      <view class="b" bindtap="moveToLocation4">
+      <image src="../../../images/icon/local1.png" class="s-img"/>
+        山西农业大学卡务中心（点击可导航）
+      </view>
+    </view>
+  </view>
+</view>
